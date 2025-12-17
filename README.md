@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Dennis
 
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" />
@@ -8,17 +8,18 @@
 
 ## 📚 Profile
 
-Write a brief introduction about yourself here. For example:
-- I am a passionate professional with expertise in [your field].
+Compassionate CNA with over three years of dedicated caregiving experience, providing exceptional
+patient-centered support, excellent patient care, including ADL support and vital checks.
+- I am a passionate  with healthcare and patient care.
 - I enjoy solving problems and learning new skills.
-- Fun fact: [a fun fact about yourself].
+- Fun fact: I love music.
 
 ---
 
 ## 💼 Work Experience
 
-### **Job Title**  
-*Company Name* – *Location*  
+### **Certified Nursing Assistant (Clinical Rotation)**  
+*Trellis Chino* – *Location*  
 *Start Date* – *End Date or Present*  
 - Brief description of your role and responsibilities.
 - Key achievements or contributions.
