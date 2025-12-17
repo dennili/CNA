@@ -50,7 +50,9 @@ monitoring.
 -->
 
 **Post-Secondary Education**  
-*Completed 60+ units completed at accredited institutions*  
+*Chabot College* – *Hayward, CA*  2002
+*Chaffey College* – *Rancho Cucamonga, CA*  2025
+*Completed 60+ units *  
 
 **Certified Nursing Assistant Course**  
 *McKallen Medical* – *Ontario, CA*  
