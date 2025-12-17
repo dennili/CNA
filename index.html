@@ -3,12 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dennis Li - Profile</title>
+  <title>Render Markdown in HTML</title>
+  <!-- Include the Marked.js library -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     body {
       font-family: Arial, sans-serif;
-      line-height: 1.6;
       margin: 20px;
+      line-height: 1.6;
     }
     h1, h2, h3 {
       color: #333;
@@ -23,100 +25,87 @@
     ul {
       padding-left: 20px;
     }
-    .center {
-      text-align: center;
-    }
-    .contact-links {
-      margin-top: 20px;
-    }
   </style>
 </head>
 <body>
+  <!-- Placeholder for rendered Markdown content -->
+  <div id="content"></div>
 
-  <div class="center">
-    <h1>👋 Hi, I'm Dennis</h1>
-    <!-- Profile Picture (Optional) -->
-    <!-- <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" /> -->
-  </div>
+  <script>
+    // Your Markdown content (copied from your README.md)
+    const markdownContent = `
+# 👋 Hi, I'm Dennis
 
-  <hr>
+## 📚 Profile
 
-  <h2>📚 Profile</h2>
-  <p>
-    Compassionate CNA with over three years of dedicated caregiving experience, providing exceptional patient-centered support, excellent patient care, including ADL support and vital checks.
-  </p>
-  <ul>
-    <li>I am a passionate with patient care and privacy in healthcare.</li>
-    <li>I enjoy solving problems and learning new skills.</li>
-    <li>Fun fact: I love both healthcare and music because they both involve listening, creativity, and finding harmony.</li>
-  </ul>
+Compassionate CNA with over three years of dedicated caregiving experience, providing exceptional patient-centered support, excellent patient care, including ADL support and vital checks.
+- I am a passionate with patient care and privacy in healthcare.
+- I enjoy solving problems and learning new skills.
+- Fun fact: I love both healthcare and music because they both involve listening, creativity, and finding harmony.
 
-  <h2>💼 Work Experience</h2>
+## 💼 Work Experience
 
-  <h3>Certified Nursing Assistant (Clinical Rotation)</h3>
-  <p><strong>Trellis Chino</strong> – <em>Chino, CA</em><br>
-  <em>September 2025 – October 2025</em></p>
-  <ul>
-    <li>Provided companionship and emotional support to enhance residents’ quality of life and promote a homelike environment.</li>
-    <li>Monitored and reported any safety concerns or environmental hazards to ensure a secure living space for residents.</li>
-    <li>Documented patient care activities, vital signs, and ADLs accurately in PointClickCare EHR, ensuring real-time charting compliance.</li>
-    <li>Maintained strict HIPAA compliance when accessing, updating, and discussing protected health information (PHI).</li>
-  </ul>
+### **Certified Nursing Assistant (Clinical Rotation)**  
+*Trellis Chino* – *Chino, CA*  
+*September 2025* – *October 2025*  
+- Provided companionship and emotional support to enhance residents’ quality of life and promote a homelike environment.
+- Monitored and reported any safety concerns or environmental hazards to ensure a secure living space for residents.
+- Documented patient care activities, vital signs, and ADLs accurately in PointClickCare EHR, ensuring real-time charting compliance.
+- Maintained strict HIPAA compliance when accessing, updating, and discussing protected health information (PHI).
 
-  <h3>Medical Assistant Extern</h3>
-  <p><strong>JDMD Clinics</strong> – <em>Ontario, CA</em><br>
-  <em>March 2025 – June 2025</em></p>
-  <ul>
-    <li>Performed patient intake, vital signs, and EHR charting using Practice Fusion, ensuring complete and accurate medical records.</li>
-    <li>Assisted with DOT physicals, medication administration (B12, insulin), and pre/post-procedure monitoring.</li>
-    <li>Managed front-desk operations including scheduling, registration, and maintaining up-to-date patient demographics and consent forms.</li>
-  </ul>
+### **Medical Assistant Extern**  
+*JDMD Clinics* – *Ontario, CA*  
+*March 2025* – *June 2025*  
+- Performed patient intake, vital signs, and EHR charting using Practice Fusion, ensuring complete and accurate medical records.
+- Assisted with DOT physicals, medication administration (B12, insulin), and pre/post-procedure monitoring.
+- Managed front-desk operations including scheduling, registration, and maintaining up-to-date patient demographics and consent forms.
 
-  <h2>🎓 Education / Certifications / License</h2>
+## 🎓 Education / Certifications / License
 
-  <p><strong>Post-Secondary Education</strong><br>
-  Completed 60+ units completed at accredited institutions</p>
+**Post-Secondary Education**  
+*Completed 60+ units completed at accredited institutions*  
 
-  <p><strong>Certified Nursing Assistant Course</strong><br>
-  <em>McKallen Medical</em> – Ontario, CA<br>
-  Certificate of Completion 2025</p>
+**Certified Nursing Assistant Course**  
+*McKallen Medical* – *Ontario, CA*  
+Certificate of Completion  *2025*   
 
-  <p><strong>Certified Nursing Assistant</strong><br>
-  <em>California Department of Public Health (CDPH)</em> 2025<br>
-  License Number: CNA 01358120</p>
+**Certified Nursing Assistant**  
+*California Department of Public Health (CDPH)*  *2025*  
+License Number: *CNA 01358120*
 
-  <p><strong>Medical Assistant Course</strong><br>
-  <em>HealthStaff Training Institute</em> – Ontario, CA<br>
-  Certificate of Completion 2025</p>
+**Medical Assistant Course**  
+*HealthStaff Training institute* – *Ontario, CA*  
+Certificate of Completion  *2025*  
 
-  <h2>💪 Skills</h2>
-  <ul>
-    <li><strong>Technical Skills:</strong> Patient Care and Hygiene Assistance, Vital Signs Monitoring, Mobility and Transfer Support, Documentation and Communication</li>
-    <li><strong>Soft Skills:</strong> Empathy and Compassion, Communication, Patience and Adaptability</li>
-    <li><strong>Tools & Technologies:</strong> EHR, Patient Lifts and Transfer Devices, Vital Signs Monitoring Equipment, PPE</li>
-  </ul>
+## 💪 Skills
 
-  <h2>🌟 Interests</h2>
-  <ul>
-    <li>Music</li>
-    <li>Computers</li>
-    <li>Pets</li>
-  </ul>
+- **Technical Skills**: Patient Care and Hygiene Assistance, Vital Signs Monitoring, Mobility and Transfer Support, Documentation and Communication
+- **Soft Skills**: Empathy and Compassion, Communication, Patience and Adaptability
+- **Tools & Technologies**: EHR, Patient Lifts and Transfer Devices, Vital Signs Monitoring Equipment, PPE
 
-  <h2>🌐 Languages</h2>
-  <ul>
-    <li>English</li>
-    <li>Tagalog</li>
-  </ul>
+## 🌟 Interests
 
-  <h2>✉️ Contact</h2>
-  <div class="contact-links">
-    <p>Feel free to reach out to me via:</p>
-    <ul>
-      <li>Email: <a href="mailto:dennili@yahoo.com">dennili@yahoo.com</a></li>
-      <li>Website: <a href="https://github.com/dennili/CNA" target="_blank">https://github.com/dennili/CNA</a></li>
-    </ul>
-  </div>
+- Music
+- Computers
+- Pets
 
+## 🌐 Languages
+
+- English
+- Tagalog
+
+## ✉️ Contact
+
+Feel free to reach out to me via:
+- Email: [dennili@yahoo.com](mailto:dennili@yahoo.com)  
+- Website: [https://github.com/dennili/CNA](https://github.com/dennili/CNA)
+`;
+
+    // Convert Markdown to HTML using Marked.js
+    const htmlContent = marked.parse(markdownContent);
+
+    // Inject the HTML into the page
+    document.getElementById('content').innerHTML = htmlContent;
+  </script>
 </body>
 </html>
