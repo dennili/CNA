@@ -48,22 +48,20 @@ monitoring.
 - Relevant coursework or specialization.
 -->
 
-- ### **Post-Secondary Education**  
+### **Post-Secondary Education**  
 *Completed 60+ semester units of college-level coursework through various accredited institutions*  
 
-### **Certified Nursing Assistant Course**  
+ ### **Certified Nursing Assistant Course**
 *McKallen Medical* – *Ontario, CA*  
-*2025*  
-- Certificate of Completion.
+Certificate of Completion  *2025*   
 
-### **Certified Nursing Assistant**  
-*California Department of Public Health (CDPH)* – *2025*  
-- License Number: CNA 01358120
+  ### **Certified Nursing Assistant**  
+*California Department of Public Health (CDPH)*  *2025*  
+License Number: CNA 01358120
 
-### **Medical Assistant course**  
+ ### **Medical Assistant course**  
 *HealthStaff Training institute* – *Ontario, CA*  
-*2025*  
-- Certificate of Completion.
+Certificate of Completion  *2025*  
 
 ---
 
@@ -94,93 +92,10 @@ monitoring.
 
 Feel free to reach out to me via:
 
-- Email: [your-email@example.com](mailto:dennili@yahoo.com)  
+- Email: [dennili@yahoo.com](mailto:dennili@yahoo.com)  
 <!-- - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  -->
  
-- Website: [your-website.com](https://your-website.com)
+- Website: [https://github.com/dennili/CNA]([https://your-website.com](https://github.com/dennili/CNA))
 
 ---
 
-### Preview
-
-Below is a preview of how this will look when rendered on GitHub:
-
----
-
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" />
-</div>
-
----
-
-## 📚 Profile
-
-Write a brief introduction about yourself here. For example:
-- I am a passionate professional with expertise in [your field].
-- I enjoy solving problems and learning new skills.
-- Fun fact: [a fun fact about yourself].
-
----
-
-## 💼 Work Experience
-
-### **Job Title**  
-*Company Name* – *Location*  
-*Start Date* – *End Date or Present*  
-- Brief description of your role and responsibilities.
-- Key achievements or contributions.
-
-### **Job Title**  
-*Company Name* – *Location*  
-*Start Date* – *End Date or Present*  
-- Brief description of your role and responsibilities.
-- Key achievements or contributions.
-
----
-
-## 🎓 Education / Certifications
-
-### **Degree or Certification Name**  
-*Institution Name* – *Location*  
-*Year Completed*  
-- Relevant coursework or specialization.
-
-### **Certification Name**  
-*Issuing Organization* – *Year Completed*  
-- Description of the certification.
-
----
-
-## 💪 Skills
-
-- **Technical Skills**: Skill 1, Skill 2, Skill 3
-- **Soft Skills**: Skill 1, Skill 2, Skill 3
-- **Tools & Technologies**: Tool 1, Tool 2, Tool 3
-
----
-
-## 🌟 Interests
-
-- Interest 1
-- Interest 2
-- Interest 3
-
----
-
-## 🌐 Languages
-
-- Language 1: Proficiency Level (e.g., Fluent)
-- Language 2: Proficiency Level (e.g., Intermediate)
-
----
-
-## ✉️ Contact
-
-Feel free to reach out to me via:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-- GitHub: [@your-username](https://github.com/your-username)  
-- Website: [your-website.com](https://your-website.com)
-
----
