@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Dennis
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+<!--   <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius: 50%;" /> 
+  -->
 </div>
 
 ---
@@ -48,18 +49,18 @@ monitoring.
 - Relevant coursework or specialization.
 -->
 
-### **Post-Secondary Education**  
-*Completed 60+ semester units of college-level coursework through various accredited institutions*  
+**Post-Secondary Education**  
+*Completed 60+ units completed at accredited institutions*  
 
- ### **Certified Nursing Assistant Course**
+**Certified Nursing Assistant Course**  
 *McKallen Medical* – *Ontario, CA*  
 Certificate of Completion  *2025*   
 
-  ### **Certified Nursing Assistant**  
+**Certified Nursing Assistant**  
 *California Department of Public Health (CDPH)*  *2025*  
-License Number: CNA 01358120
+License Number: *CNA 01358120*
 
- ### **Medical Assistant course**  
+**Medical Assistant Course**  
 *HealthStaff Training institute* – *Ontario, CA*  
 Certificate of Completion  *2025*  
 
@@ -75,9 +76,9 @@ Certificate of Completion  *2025*
 
 ## 🌟 Interests
 
-- Interest 1
-- Interest 2
-- Interest 3
+- Music
+- Computers
+- Pets
 
 ---
 
@@ -95,7 +96,7 @@ Feel free to reach out to me via:
 - Email: [dennili@yahoo.com](mailto:dennili@yahoo.com)  
 <!-- - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  -->
  
-- Website: [https://github.com/dennili/CNA]([https://your-website.com](https://github.com/dennili/CNA))
+- Website: [https://github.com/dennili/CNA](https://github.com/dennili/CNA)
 
 ---
 
