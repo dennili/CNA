@@ -50,8 +50,8 @@ monitoring.
 -->
 
 **Post-Secondary Education**  
-*Chabot College* – *Hayward, CA*  2002
-*Chaffey College* – *Rancho Cucamonga, CA*  2025
+*Chabot College* – *Hayward, CA  2002 *
+*Chaffey College* – *Rancho Cucamonga, CA 2025 *
 *Completed 60+ units *  
 
 **Certified Nursing Assistant Course**  
