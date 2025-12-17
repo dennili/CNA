@@ -54,7 +54,7 @@ monitoring.
 
 **Certified Nursing Assistant Course**  
 *McKallen Medical* – *Ontario, CA*  
-Certificate of Completion  *2025*   
+Certificate of Completion   
 
 **Certified Nursing Assistant**  
 *California Department of Public Health (CDPH)*  *2025*  
@@ -62,7 +62,7 @@ License Number: *CNA 01358120*
 
 **Medical Assistant Course**  
 *HealthStaff Training institute* – *Ontario, CA*  
-Certificate of Completion  *2025*  
+Certificate of Completion 
 
 ---
 
