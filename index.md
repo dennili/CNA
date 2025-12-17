@@ -94,9 +94,8 @@ Certificate of Completion
 Feel free to reach out to me via:
 
 - Email: [dennili@yahoo.com](mailto:dennili@yahoo.com)  
-<!-- - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  -->
- 
 - Website: [https://github.com/dennis/CNA](https://dennili.github.io/CNA/)
+- <!-- - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  -->
 
 ---
 
