@@ -10,20 +10,26 @@
 
 Compassionate CNA with over three years of dedicated caregiving experience, providing exceptional
 patient-centered support, excellent patient care, including ADL support and vital checks.
-- I am a passionate  with healthcare and patient care.
+- I am a passionate  with patient care  and privacy in healthcare.
 - I enjoy solving problems and learning new skills.
-- Fun fact: I love music.
+- Fun fact: I love both healthcare and music because they both involve listening, creativity, and finding harmony.
 
 ---
 
 ## 💼 Work Experience
 
 ### **Certified Nursing Assistant (Clinical Rotation)**  
-*Trellis Chino* – *Location*  
-*Start Date* – *End Date or Present*  
-- Brief description of your role and responsibilities.
-- Key achievements or contributions.
-
+*Trellis Chino* – *Chino, CA*  
+*September 2025* – *October 2025*  
+- Provided companionship and emotional support to enhance
+residents’ quality of life and promote a homelike environment.
+- Monitored and reported any safety concerns or environmental
+hazards to ensure a secure living space for residents.
+- Documented patient care activities, vital signs, and ADLs accurately in PointClickCare EHR, ensuring
+real-time charting compliance.
+- Maintained strict HIPAA compliance when accessing, updating, and discussing protected health
+information (PHI).
+  
 ### **Job Title**  
 *Company Name* – *Location*  
 *Start Date* – *End Date or Present*  
@@ -47,9 +53,9 @@ patient-centered support, excellent patient care, including ADL support and vita
 
 ## 💪 Skills
 
-- **Technical Skills**: Skill 1, Skill 2, Skill 3
-- **Soft Skills**: Skill 1, Skill 2, Skill 3
-- **Tools & Technologies**: Tool 1, Tool 2, Tool 3
+- **Technical Skills**: Patient Care and Hygiene Assistance, Vital Signs Monitoring, Mobility and Transfer Support, Documentation and Communication
+- **Soft Skills**:  Empathy and Compassion, Communication, Patience and Adaptability
+- **Tools & Technologies**: EHR, Patient Lifts and Transfer Devices, Vital Signs Monitoring Equipment, PPE
 
 ---
 
